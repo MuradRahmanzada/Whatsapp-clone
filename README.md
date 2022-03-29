@@ -1,6 +1,8 @@
 ![Whatsapp-Login](https://user-images.githubusercontent.com/97960285/160670641-708e9426-5836-4c9d-b09c-9c77415f8d87.png)
 ![whatsapp-chat3](https://user-images.githubusercontent.com/97960285/160670682-f118d0c4-55f2-4726-8e23-44a1583548f4.png)
 
+# Build a WhatsApp Clone with React JS, FireBase and Google Authentication
+# Tech Stack
 
 
 # Getting Started with Create React App
