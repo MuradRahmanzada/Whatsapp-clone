@@ -4,7 +4,7 @@ import "firebase/compat/firestore";
 
 
 const firebaseConfig = {
-  apiKey: "AIzaSyD4bWbjEvAGxnVgmGDaOK0Vda81IyF8NiY",
+  apiKey: "yourApiKey",
   authDomain: "whatsapp-clone-86670.firebaseapp.com",
   projectId: "whatsapp-clone-86670",
   storageBucket: "whatsapp-clone-86670.appspot.com",
